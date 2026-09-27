@@ -8,4 +8,4 @@ El repo cuenta con dos proyectos del taller que se nos asigno por Teams:
 ## Requisitos de Ejecución
 * Android Studio
 * SDK de Android compatible (API min 24+)
-* Conexión a internet o emulador con permisos de red habilitados: (`<uses-permission android:name="android.permission.INTERNET" />').
+* Conexión a internet o emulador con permisos de red habilitados: (`<uses-permission android:name="android.permission.INTERNET" />`).
