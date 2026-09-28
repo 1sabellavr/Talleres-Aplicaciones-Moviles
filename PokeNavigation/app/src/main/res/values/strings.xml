@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PokeNavigation</string>
+    <string name="menu_inicio">Inicio</string>
+    <string name="menu_favorito">Favoritos</string>
+    <string name="menu_informacion"> Información</string>
+    <string name="titulo_pokemon"> Pokémon</string>
+    <string name="cargando">Cargando Información</string>
+    <string name="reintentar"> Reintentar</string>
+
+    <!--TODO: REMOVE OR CHANGE THIS PLACEHOLDER TEXT-->
+    <string name="hello_blank_fragment">Hello Blank Fragment!</string>
+
+</resources>
